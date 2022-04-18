@@ -32,7 +32,7 @@
   
   - 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨:
     <p align="left">
-      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+      <a href="#"> <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="40" height="40"/> </a>
       <a href="#"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
       <a href="#"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
       <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -58,6 +58,6 @@
 ---
 <p>
   <strong> 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦: </strong>
-  <a href="mailto:simionovmdaniel@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/quiple/brand-logo/af523e1c2163275f00cf688083d4da2539c5236e/assets/gmail.svg" alt="simionovmdaniel@gmail.com" height="20" width="25" /></a> 
+  <a href="mailto:simionovmdaniel@gmail.com" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="simionovmdaniel@gmail.com" height="20" width="27" /></a> 
   <a href="https://linkedin.com/in/daniel-simionov-5051031b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-simionov-5051031b9" height="20" width="25" /></a>
 </p>
